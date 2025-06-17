@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-complete-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeHaiNguyenCoDe/nodejs-complete-guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeHaiNguyenCoDe/nodejs-complete-guide/issues"
+  },
+  "homepage": "https://github.com/LeHaiNguyenCoDe/nodejs-complete-guide#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
